@@ -8,5 +8,5 @@ brew tap digitalturbine/skad_updater
 ```
 ## Install
 ```
-  brew install skad_updater
+brew install digitalturbine/skad_updater/skad_updater
 ```
